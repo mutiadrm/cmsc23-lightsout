@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Mutia_Exer5_LightsOutv2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lights_out_startpage_label">LIGHTS OUT</string>
+    <string name="name_field">NAME</string>
+    <string name="name_hint">Enter name</string>
+    <string name="play_label">PLAY</string>
+
+    <string name="lights_out_label">Lights Out</string>
+    <string name="one_label">1</string>
+    <string name="two_label">1</string>
+    <string name="three_label">1</string>
+    <string name="four_label">1</string>
+    <string name="five_label">1</string>
+    <string name="six_label">1</string>
+    <string name="seven_label">1</string>
+    <string name="eight_label">1</string>
+    <string name="nine_label">1</string>
+    <string name="ten_label">1</string>
+    <string name="eleven_label">1</string>
+    <string name="twelve_label">1</string>
+    <string name="thirteen_label">1</string>
+    <string name="fourteen_label">1</string>
+    <string name="fifteen_label">1</string>
+    <string name="sixteen_label">1</string>
+    <string name="seventeen_label">1</string>
+    <string name="eighteen_label">1</string>
+    <string name="nineteen_label">1</string>
+    <string name="twenty_label">1</string>
+    <string name="twenty_one_label">1</string>
+    <string name="twenty_two_label">1</string>
+    <string name="twenty_three_label">1</string>
+    <string name="twenty_four_label">1</string>
+    <string name="twenty_five_label">1</string>
+    <string name="retry_label">RETRY</string>
+    <string name="clicks_label">Clicks:</string>
+    <string name="numberOfClicks_label">0</string>
+
+    <string name="player_name_label">Player\'s name</string>
+    <string name="congratulations_label">CONGRATULATIONS</string>
+    <string name="winner_description_label">You have successfully turned all the lights off!</string>
+    <string name="play_again_label">PLAY AGAIN</string>
+
+</resources>
